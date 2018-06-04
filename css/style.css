@@ -160,7 +160,11 @@
             text-align: center;
         }
         #showcase img {
+            margin-bottom: -170px;
             margin-left: 3px;
+        }
+        #showcase h1 {
+            font-size: 30px;
         }
         #info-left,
         img {
